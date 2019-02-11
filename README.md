@@ -53,7 +53,7 @@ class YesidComponent extends React.Component {
     );
   };	
 }
-
+ 
 const Result = (props) => {
 	return (
   	<div>Probando ando {props.counter}</div>
